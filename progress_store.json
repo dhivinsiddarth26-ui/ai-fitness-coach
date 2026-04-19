@@ -1,0 +1,68 @@
+{
+  "dhivin": {
+    "name": "dhivin",
+    "goal": "Muscle Gain",
+    "experience": "Beginner",
+    "days": 6,
+    "completed": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "bmi": 18.17,
+    "calories": 1925,
+    "protein": 110,
+    "water": 2.0,
+    "weeks_completed": 4,
+    "weeks": {
+      "1": {
+        "completed_days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "days": 6,
+        "goal": "Muscle Gain",
+        "experience": "Advanced"
+      },
+      "2": {
+        "completed_days": [
+          1
+        ],
+        "days": 6,
+        "goal": "Muscle Gain",
+        "experience": "Beginner"
+      }
+    },
+    "current_week": 2
+  },
+  "sid": {
+    "name": "sid",
+    "goal": "Muscle Gain",
+    "experience": "Intermediate",
+    "days": 6,
+    "completed": [],
+    "bmi": 17.63,
+    "calories": 1890,
+    "protein": 108,
+    "water": 2.0,
+    "weeks_completed": 0
+  },
+  "sidd": {
+    "name": "sidd",
+    "goal": "Muscle Gain",
+    "experience": "Intermediate",
+    "days": 5,
+    "completed": [],
+    "bmi": 18.17,
+    "calories": 1925,
+    "protein": 110,
+    "water": 2.0,
+    "weeks_completed": 0
+  }
+}
