@@ -104,7 +104,7 @@ st.markdown(
 # -------------------------
 # HEADER
 # -------------------------
-st.markdown('<div class="main-title">💪 Built for You ❤️navz❤️</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">💪 Built for You ❤️❤️</div>', unsafe_allow_html=True)
 st.markdown(
     '<div class="subtitle">Workout plan, food plan, advice, and saved daily progress by profile name</div>',
     unsafe_allow_html=True,
